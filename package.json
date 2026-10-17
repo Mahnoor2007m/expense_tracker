@@ -1,0 +1,10 @@
+{
+  "name": "smartspend-ai-expense-tracker",
+  "private": true,
+  "description": "AI Expense Tracker (Groq) deployed on Firebase Hosting + Cloud Functions",
+  "scripts": {
+    "start": "node dev-server.js",
+    "test": "node --test",
+    "e2e": "python tests/e2e.py"
+  }
+}
